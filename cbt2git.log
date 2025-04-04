@@ -1,0 +1,12 @@
+2025-04-04 12:55:39.394253 - Received CBT.V508.FILE626.PDS from FILE626.XMI 
+2025-04-04 12:55:39.395014 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:55:39.395192 - Found $DOC.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/$DOC
+2025-04-04 12:55:39.395324 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE626.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-04 12:55:39.399380 - Received SBGOLOB.TSOENQ.LOAD from $LOADLIB.xmi 
+2025-04-04 12:55:39.399777 - Found TSOENQ.bin (application/octet-stream) in SBGOLOB.TSOENQ.LOAD, moved to $LOADLIB/TSOENQ
+2025-04-04 12:55:39.400108 - Found @FILE626.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/@FILE626
+2025-04-04 12:55:39.400245 - Found ASMENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/ASMENQ
+2025-04-04 12:55:39.400386 - Found CSA.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/CSA
+2025-04-04 12:55:39.400514 - Found EN.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/EN
+2025-04-04 12:55:39.400655 - Found JI.rexx (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/JI
+2025-04-04 12:55:39.400806 - Found TSOENQ.txt (text/plain) in CBT.V508.FILE626.PDS, moved to PDS/TSOENQ
